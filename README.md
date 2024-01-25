@@ -1,14 +1,14 @@
 ## Hi there 👋
 #
-#
+
 ### Here is a Meet Crash Hack which is verified, and you
 ### can use it to bunk your meet classes and enjoy!!
-#
+
 ## Mail me if you have any Trouble :) eharsh615@gmail.com
-#
-#
+
+
 #### Instructions to execute it ->
-#
+
 #### 1. Navigate to /Meet Crash Hack
 #### 2. Navigate to a .js file, which contains code to execute
 #### 3. Copy the code via Raw, or the Copy button
