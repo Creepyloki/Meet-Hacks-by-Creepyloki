@@ -8,10 +8,10 @@
 	let randlen;
 	let stringgen;
 	let randgenbool = true;
-	if (confirm("Do you want to generate a custom string?")) {
-		stringgen = prompt("Enter a string", "ZackiBoiz is cool!");
+	if (confirm("Do you want to execute this program?")) {
+		stringgen = prompt("Enter a string", "Type you want to text to crash!");
 		if (!stringgen) {
-			stringgen = "ZackiBoiz is cool!";
+			stringgen = "Type you want to text to crash!";
 		}
 		randgenbool = false;
 	} else {
@@ -21,7 +21,7 @@
 		}
 		randgenbool = true;
 	}
-	let ms = parseInt(prompt("Enter [millisecond] delay between intervals:", "50"));
+	let ms = parseInt(prompt("Enter [millisecond] delay between intervals:", "1"));
 
 	function genRand(length) {
 		let result = '';
