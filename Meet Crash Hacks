@@ -9,9 +9,9 @@
 	let stringgen;
 	let randgenbool = true;
 	if (confirm("Do you want to execute this program?")) {
-		stringgen = prompt("Enter a string", "Type you want to text to crash!");
+		stringgen = prompt("Enter a string", "LOL");
 		if (!stringgen) {
-			stringgen = "Type you want to text to crash!";
+			stringgen = "LOL";
 		}
 		randgenbool = false;
 	} else {
